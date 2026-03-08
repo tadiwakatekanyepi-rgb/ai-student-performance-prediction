@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    font-family: Arial;
+    color: white;
+}
+
+.card, .dashboard {
+    width: 60%;
+    margin: auto;
+    background: rgba(0,0,0,0.3);
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+button {
+    background: #00e6e6;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.model-card {
+    background: rgba(255,255,255,0.1);
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
